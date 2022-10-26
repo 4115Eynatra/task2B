@@ -1,3 +1,1 @@
-# task2B
-# task2B
-# task2A
+# task2B - OpenCV
